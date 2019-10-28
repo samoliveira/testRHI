@@ -1,4 +1,6 @@
 "# testRHI" 
 
 
-Teste de mudança de arquivo
+Teste de mudanÃ§a de arquivo
+
+Adding content to readme
